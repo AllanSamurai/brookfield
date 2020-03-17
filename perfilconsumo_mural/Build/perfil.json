@@ -1,0 +1,20 @@
+{
+"companyName": "Allan Samurai Madeira",
+"productName": "Cada gota conta",
+"productVersion": "1.0",
+"dataUrl": "perfil.data.unityweb",
+"wasmCodeUrl": "perfil.wasm.code.unityweb",
+"wasmFrameworkUrl": "perfil.wasm.framework.unityweb",
+"asmCodeUrl": "perfil.asm.code.unityweb",
+"asmMemoryUrl": "perfil.asm.memory.unityweb",
+"asmFrameworkUrl": "perfil.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.5f1"
+}
